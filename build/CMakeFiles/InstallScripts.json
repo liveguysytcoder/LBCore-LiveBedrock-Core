@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/storage/shared/siteproject/LBCore/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

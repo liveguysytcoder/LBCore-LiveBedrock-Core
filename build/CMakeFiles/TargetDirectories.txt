@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/storage/shared/siteproject/LBCore/build/CMakeFiles/LBCore.dir
+/data/data/com.termux/files/home/storage/shared/siteproject/LBCore/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/storage/shared/siteproject/LBCore/build/CMakeFiles/rebuild_cache.dir
